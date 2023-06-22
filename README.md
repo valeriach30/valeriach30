@@ -9,8 +9,10 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
-<h3 align="left">Trophies:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valeriach30&label=Profile%20views&color=0e75b6&style=flat" alt="valeriach30" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valeriach30" alt="valeriach30" /></a> </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
