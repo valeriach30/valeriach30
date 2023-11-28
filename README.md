@@ -17,9 +17,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <ul>
+<ul>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> HTML</li>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /> CSS</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40" /> SCSS</li>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> JavaScript</li>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /> React</li>
   <li><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="40" height="40" /> AngularJS</li>
@@ -33,7 +34,8 @@
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/> Haskell</li>
   <li><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> Figma</li>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> C++</li>
-  </ul>
+</ul>
+
 </p>
 <h3 align="left">Others:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valeriach30&show_icons=true&locale=en&layout=compact" alt="valeriach30" /></p>
